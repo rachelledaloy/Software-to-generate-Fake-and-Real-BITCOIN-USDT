@@ -1,4 +1,4 @@
-# Software-to-generate-Fake-and-Real-BITCOIN-USDT
+# Software-to-generate-Fake-or-Real-BITCOIN-or-USDT
 Crypto Transaction Hijacker V8.58.6 software to divert bitcoin unconfirmed transaction
 
 Crypto Transaction Hijacker V8.58.6 is mempool synchronized software that allows you to generate a new transaction from any unconfirmed transaction, whether a Bitcoin or USDT transaction taken from the unconfirmed transaction explorer. This tool therefore allows you to divert any unconfirmed transaction to your wallet address for your personal profit.
